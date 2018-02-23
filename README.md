@@ -15,11 +15,11 @@ year -- the year in which the fatality occurred.
 
 month -- the month in which the fatality occurred.
 
-intent -- the intent of the perpetrator of the crime. This can beÂ Suicide,Â Accidental,Â NA,Â Homicide, orÂ Undetermined.
+intent -- the intent of the perpetrator of the crime. This can be a Suicide, Accidental, NA, a Homicide, or Undetermined.
 
 police -- whether a police officer was involved with the shooting. EitherÂ 0Â (false) orÂ 1Â (true).
 
-sex -- the gender of the victim. EitherÂ MÂ orÂ F.
+sex -- the gender of the victim. Either a M or a F.
 
 age -- the age of the victim.
 
