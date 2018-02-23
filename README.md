@@ -1,5 +1,5 @@
 # Gun_Fatalities_in_US
-Exploratory analysis of gun deaths in the United States
+Exploratory analysis of gun deaths in the United States from 2012 to 2014
 
 
 This project consists of data obtained from www.fivethirtyeight.com
